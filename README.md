@@ -16,5 +16,5 @@ This project predicts the popularity of Spotify tracks using audio features such
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/zf562cpqb9-pixel/SpotifyProject_repo.git
 cd SpotifyProject_repo
